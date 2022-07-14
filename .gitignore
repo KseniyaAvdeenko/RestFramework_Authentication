@@ -1,3 +1,5 @@
 venv/
 .idea
 .vscode
+users/__pycahche__/
+auth/__pycahche__/
